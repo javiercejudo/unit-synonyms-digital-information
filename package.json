@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-digital-information",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Digital information units synonyms",
   "main": "src/index.js",
   "scripts": {
