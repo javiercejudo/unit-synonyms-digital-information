@@ -1,0 +1,41 @@
+{
+  "byte": "byte",
+  "bytes": "byte",
+  "B": "byte",
+
+  "bit": "bit",
+  "bits": "bit",
+  "b": "bit",
+
+  "kibibyte": "kibibyte",
+  "kibibytes": "kibibyte",
+  "KiB": "kibibyte",
+
+  "mebibyte": "mebibyte",
+  "mebibytes": "mebibyte",
+  "MiB": "mebibyte",
+
+  "gibibyte": "gibibyte",
+  "gibibytes": "gibibyte",
+  "GiB": "gibibyte",
+
+  "tebibyte": "tebibyte",
+  "tebibytes": "tebibyte",
+  "TiB": "tebibyte",
+
+  "pebibyte": "pebibyte",
+  "pebibytes": "pebibyte",
+  "PiB": "pebibyte",
+
+  "exbibyte": "exbibyte",
+  "exbibytes": "exbibyte",
+  "EiB": "exbibyte",
+
+  "zebibyte": "zebibyte",
+  "zebibytes": "zebibyte",
+  "ZiB": "zebibyte",
+
+  "yobibyte": "yobibyte",
+  "yobibytes": "yobibyte",
+  "YiB": "yobibyte"
+}
